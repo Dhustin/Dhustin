@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Dhustin
+- 👋 Hi, I’m 
 - 👀 I’m interested in learning more about programming specially python and web developmment
-- 🌱 I’m currently learning Python, Java, Lua, Html/Css/Js, Node.Js, C, VB/VBS
+- 🌱 I’m currently learning Python, Java, Html/Css/Js,  C 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
